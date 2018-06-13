@@ -1,0 +1,31 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "name": "Aditi",
+      "age": 36,
+      "address": "Khargar",
+      "city": "Mumbai",
+      "user": "bhajipav",
+      "pass": "wadapav"
+    },
+    {
+      "id": 2,
+      "name": "Bhajji",
+      "age": 39,
+      "address": "Khargar",
+      "city": "Mumbai",
+      "user": "bhajipav",
+      "pass": "wadapav"
+    },
+    {
+      "id": 3,
+      "name": "Mahi",
+      "age": 36,
+      "address": "Lamb",
+      "city": "CA",
+      "user": "msd12",
+      "pass": "sakshi"
+    }
+  ]
+}
